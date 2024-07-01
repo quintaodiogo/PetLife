@@ -1,0 +1,27 @@
+.main-clinica {
+  display: flex;
+  gap: 64px;
+  align-items: center;
+  padding: 64px 80px;
+}
+.clinica-title {
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 35.2px;
+  color: #263238;
+}
+.clinica-text {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  color: #263238;
+}
+.clinica-item {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 36px;
+  color: #263238;
+}
