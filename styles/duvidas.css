@@ -5,15 +5,15 @@
   padding: 64px 80px;
 }
 
-.duvida-item {
+.duvidaItem {
   position: relative;
 }
-.duvida-item > .duvida-subtitle {
+.duvidaItem > .duvida-subtitle {
   border: 2px solid #ff725e;
   border-radius: 8px;
   cursor: pointer;
 }
-.duvida-item .arrow-down{
+.duvidaItem .arrow-down{
   position: absolute;
   top: 32px;
   right: 24px;
@@ -44,5 +44,16 @@
   border-right: 1px solid #ff725e;
   border-radius: 0 0 8px 8px;
   margin-top: -22px;
+  padding: 0 24px;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+
+  transition: .2s;
+}
+
+.duvidaItem.ativa .duvida-text {
+  height: fit-content;
+  opacity: 1;
   padding: 24px;
 }

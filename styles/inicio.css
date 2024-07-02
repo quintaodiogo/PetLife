@@ -3,6 +3,7 @@
   flex-direction: column;
   align-items: center;
   padding: 64px 80px;
+  position: relative;
 }
 .wrapper-inicio {
   display: flex;
@@ -10,7 +11,7 @@
   align-items: center;
   justify-content: center;
   width: 100%;
-  position: relative;
+  padding-bottom: 60px;
 }
 .main-inicio-texts > .inicio-title {
   font-family: Montserrat;
@@ -57,7 +58,7 @@
   width: 100%;
   height: auto;
   z-index: 1;
-  bottom: -130px;
+  bottom: 0;
 }
 .wrapper-inicio img {
   position: relative; 
