@@ -98,4 +98,7 @@
   .main-inicio-texts > .inicio-text {
     margin-bottom: 50px;
   }
+  .waves {
+    display: none;
+  }
 }
