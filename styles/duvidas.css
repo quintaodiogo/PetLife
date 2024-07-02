@@ -57,3 +57,13 @@
   opacity: 1;
   padding: 24px;
 }
+@media screen and (max-width: 768px){
+  .main-duvidas {
+    flex-direction: column;
+    padding: 64px 24px;
+  }
+  .imagem-duvidas{
+    width: 100%;
+    height: fit-content;
+  }
+}

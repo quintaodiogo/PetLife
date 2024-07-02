@@ -55,3 +55,14 @@
     color: #ffff;
     text-decoration: none;
 }
+@media screen and (max-width: 768px){
+  .main-footer{
+    flex-direction: column;
+    gap: 24px;
+    padding: 64px 24px;
+}
+.img-text {
+  width: 100%;
+}
+}
+

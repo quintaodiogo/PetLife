@@ -21,4 +21,13 @@
   margin: 0 auto;
 }
 
+@media screen and (max-width: 768px){
+  .main-farmacia {
+    padding: 64px 24px;
+  }
+  .main-farmacia img{
+    width: 100%;
+    height: fit-content;
+  }
+}
 

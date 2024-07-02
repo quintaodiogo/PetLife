@@ -25,3 +25,17 @@
   line-height: 36px;
   color: #263238;
 }
+
+@media screen and (max-width: 768px) {
+  .main-clinica {
+    flex-direction: column;
+    padding: 64px 24px;
+  }
+  ul{
+    padding: 0 0 0 24px;
+  }
+  .main-clinica img{
+    width: 100%;
+    height: fit-content;
+  }
+}
