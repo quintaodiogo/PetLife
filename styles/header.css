@@ -63,7 +63,7 @@
   line-height: 24.38px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .main-header {
     padding: 0 20px;
   }
