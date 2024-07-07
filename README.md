@@ -23,6 +23,6 @@ A landing page da PetLife foi desenvolvida para ser visualmente atraente e funci
 Para visualizar a landing page localmente, você pode clonar este repositório e abrir o arquivo `index.html` em seu navegador.
 
 ```bash
-git clone https://github.com/seuusuario/petlife.git
-cd petlife
+git clone https://github.com/quintaodiogo/PetLife.git
+cd PetLife
 # Abra o arquivo index.html no seu navegador
