@@ -4,8 +4,8 @@
   padding: 64px 80px;
   gap: 80px;
   justify-content: space-between;
-  background: #ff9a6c40;
-  color: #000000;
+  background: #CA492F;
+  color: #FFFFFF;
   font-family: Montserrat;
 }
 .img-text {
@@ -24,14 +24,14 @@
 }
 .wrapper-title {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: bold;
   line-height: 24px;
 }
 .wrapper-links .link {
   display: block;
   margin-bottom: 16px;
   text-decoration: none;
-  color: #000000;
+  color: #FFFFFF;
   max-width: 380px;
   font-size: 16px;
   font-weight: 400;
@@ -39,7 +39,7 @@
 }
 .wrapper-contact .contact {
   text-decoration: none;
-  color: #000000;
+  color: #FFFFFF;
   margin-bottom: 16px;
   font-size: 16px;
   font-weight: 400;

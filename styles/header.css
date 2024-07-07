@@ -1,5 +1,5 @@
 .main-header {
-  background: #ff9a6c;
+  background: #c2452d;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -72,7 +72,7 @@
   }
   .main-nav-mobile{
     display: none;
-    background: #ff9a6c;
+    background: #c2452d;
     opacity: 0.9;
     gap: 20px;
   }
